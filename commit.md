@@ -1,1 +1,1 @@
-store release instructions on 9/4/2019
+store release instructions on 9/3/2019
