@@ -1,1 +1,1 @@
-do not mutate source arrays on 9/18/2019
+properly handle false value for boolean attrs with jQuery on 9/27/2019
