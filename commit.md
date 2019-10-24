@@ -1,1 +1,1 @@
-add changes for 1.7.3 on 10/18/2019
+document  property on 10/24/2019
